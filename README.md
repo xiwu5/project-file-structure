@@ -6,6 +6,8 @@ For this activity, the objective is to re-organize the files in this repo so the
 
 After re-organizing the files, it will also be necessary to update the imports in the program (.py) files so the tests may run successfully.
 
+Start by cloning the repo, then add the desired subdirectories and move the relevant files into the newly created subdirectories.
+
 To check if the tests are running as expected, run the following command:
 
 ```
