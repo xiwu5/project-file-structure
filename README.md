@@ -6,3 +6,10 @@ For this activity, the objective is to re-organize the files in this repo so the
 
 After re-organizing the files, it will also be necessary to update the imports in the program (.py) files so the tests may run successfully.
 
+To check if the tests are running as expected, run the following command:
+
+```
+pytest test_X.py
+```
+
+Replace X with addition, subtraction, multiplication, or division. If the file you are testing is nested in a sub-directory, please remember to cd into the directory before running the command.
