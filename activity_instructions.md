@@ -18,3 +18,5 @@ Once the tests are running correctly, please also create the following for the p
 * A README file explaining the project and how the modules can be used
 * A .gitignore file
 * Choose a license for the project
+
+You can find hints to get you started in the [hints.md](hints.md) file.
